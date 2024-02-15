@@ -18,5 +18,5 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/malik.el.ekkawi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/malik.el.ekkawi" /></a></p><br/><br/>
 
 <h3 align="left">Code:</h3>
-<p><img align="left" height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=maliks223&show_icons=true&locale=en&layout=compact" alt="maliks223" /></p>
+<p><img align="left" height="250" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=maliks223&show_icons=true&locale=en&layout=compact" alt="maliks223" /></p><br/><br/>
 
