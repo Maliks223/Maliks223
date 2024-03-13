@@ -2,6 +2,7 @@
 <h1 align="center">Hello 👋, I'm Malik</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maliks223" alt="maliks223" /></a> </p>
 
 - 📫 How to reach me **malik.ekkawi.dev@gmail.com**
 
